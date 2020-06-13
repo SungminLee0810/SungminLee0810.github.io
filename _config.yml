@@ -102,15 +102,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:simonlee0810@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-website"
+      icon: "fas fa-fw fa-link"
       url: "https://scholar.google.co.kr/citations?user=m2r5XYYAAAAJ&hl=ko"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
