@@ -1,6 +1,10 @@
 ---
 permalink: /about/
 title: "About"
+layouts_gallery:
+  - alt: "splash layout example"
+  - alt: "single layout with comments and related posts"
+  - alt: "archive layout example"
 toc: true
 ---
 
