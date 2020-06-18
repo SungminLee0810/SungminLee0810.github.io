@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "About me"
+  - title: "Posts"
+    url: /year-archive/
+  - title: "about me"
     url: https://sungminlee0810.github.io/about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
